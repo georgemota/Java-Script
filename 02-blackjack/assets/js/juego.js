@@ -6,6 +6,8 @@
  * 2S = Two of Spades
  */
 
+//Este cambio es para probar el commit hacia Github
+
 let deck = [],
     countPlayer = 0,
     countComputer = 0;
