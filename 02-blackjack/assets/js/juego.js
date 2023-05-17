@@ -6,7 +6,7 @@
  * 2S = Two of Spades
  */
 
-//Este cambio es para probar el commit hacia Github
+//Este comentario es para certificar el correcto funcionamiento de mis commits
 
 let deck = [],
     countPlayer = 0,
