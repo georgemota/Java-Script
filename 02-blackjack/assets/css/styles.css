@@ -22,3 +22,13 @@ html, body {
 #computadora-cartas, #jugador-cartas{
     height: 260px;
 }
+
+.modal-container{
+    position: relative;
+    width: 500px;
+    padding: 10px;
+} 
+
+#modal::backdrop{
+    background-color: rgba(0,0,0,.55);
+}
